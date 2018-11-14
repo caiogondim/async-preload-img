@@ -1,0 +1,19 @@
+{
+  "name": "async-preload-img",
+  "version": "1.0.0",
+  "description": "Promise based image preloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiogondim/async-preload-img.git"
+  },
+  "author": "Caio Gondim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiogondim/async-preload-img/issues"
+  },
+  "homepage": "https://github.com/caiogondim/async-preload-img#readme"
+}
