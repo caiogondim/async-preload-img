@@ -17,6 +17,7 @@ import preloadImg from 'async-preload-img'
 
 try {
   await preloadImg('https://image-path.com')
+  // Image loaded
 } catch (error) {
   // Failed to load image
 }
