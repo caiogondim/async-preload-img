@@ -13,7 +13,7 @@ npm install --save async-preload-img
 `async/await`
 
 ```js
-import preloadImg from 'async-preload-img';
+import preloadImg from 'async-preload-img'
 
 try {
   await preloadImg('https://image-path.com')
@@ -25,7 +25,7 @@ try {
 `Promise`
 
 ```js
-import preloadImg from 'async-preload-img';
+import preloadImg from 'async-preload-img'
 
 preloadImg('https://image-path.com')
   .then(() => {
